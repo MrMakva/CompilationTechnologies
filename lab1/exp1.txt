@@ -1,0 +1,17 @@
+#include
+####
+****
+____
+a***
+aa**
+abcd
+ab19
+ABCD
+AB19
+(Abcd)
+
+int main
+intmain
+int x=5
+int_main
+"arabi Abudabi"
